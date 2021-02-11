@@ -1,0 +1,7 @@
+C:\Users\Max\source\repos\MCC43Day9\MCC43Day9\bin\Debug\MCC43Day9.exe.config
+C:\Users\Max\source\repos\MCC43Day9\MCC43Day9\bin\Debug\MCC43Day9.exe
+C:\Users\Max\source\repos\MCC43Day9\MCC43Day9\bin\Debug\MCC43Day9.pdb
+C:\Users\Max\source\repos\MCC43Day9\MCC43Day9\obj\Debug\MCC43Day9.csprojAssemblyReference.cache
+C:\Users\Max\source\repos\MCC43Day9\MCC43Day9\obj\Debug\MCC43Day9.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\MCC43Day9\MCC43Day9\obj\Debug\MCC43Day9.exe
+C:\Users\Max\source\repos\MCC43Day9\MCC43Day9\obj\Debug\MCC43Day9.pdb
